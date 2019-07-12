@@ -1,5 +1,5 @@
 /**
-* loader js 
+* loader js
 * softm.tistory.com
 */
 var loader = function() {
